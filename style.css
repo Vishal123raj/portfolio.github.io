@@ -357,6 +357,10 @@ header .navbar ul li a:hover {
     padding-right: 1rem;
     color: var(--color);
 }
+.contact .csr {
+    margin: auto;
+    width: 40%;
+}
 
 /* Contact Section Ends */
 
